@@ -1,14 +1,15 @@
 package com.company;
 
 import java.time.LocalDate;
+import java.util.Objects;
 
-public abstract class Products {
+public abstract class Product {
     private int id;
     private String name;
     private String company;
     private LocalDate date;
 
-    public Products(int id, String name, String company, LocalDate date) {
+    public Product(int id, String name, String company, LocalDate date) {
         this.id = id;
         this.name = name;
         this.company = company;
@@ -57,4 +58,16 @@ public abstract class Products {
                 '}';
     }
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Product product = (Product) o;
+        return id == product.id && Objects.equals(name, product.name) && Objects.equals(company, product.company) && Objects.equals(date, product.date);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id, name, company, date);
+    }
 }

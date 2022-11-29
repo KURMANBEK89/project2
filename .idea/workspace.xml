@@ -4,28 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="513e3c24-6277-4a30-ab8c-2bf311bd34ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/dairyProducts/DairyProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/dairyProducts/Kefir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/dairyProducts/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/dairyProducts/Yogurt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/meatProducts/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/meatProducts/Meat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/meatProducts/MeatProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/meatProducts/Sausages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/wheatProducts/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/wheatProducts/Flour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/wheatProducts/Pasta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/wheatProducts/WheatProducts.java" afterDir="false" />
+    <list default="true" id="513e3c24-6277-4a30-ab8c-2bf311bd34ff" name="Changes" comment="q">
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/dairyProducts/Kefir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dairyProducts/Kefir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/meatProducts/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/meatProducts/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/meatProducts/MeatProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/meatProducts/MeatProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/meatProducts/Sausages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/meatProducts/Sausages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/wheatProducts/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/wheatProducts/Bread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/wheatProducts/Flour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/wheatProducts/Flour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/wheatProducts/Pasta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/wheatProducts/Pasta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/wheatProducts/WheatProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/wheatProducts/WheatProducts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669627971729</updated>
     </task>
+    <task id="LOCAL-00001" summary="q">
+      <created>1669711534178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669711534178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="q" />
+    <option name="LAST_COMMIT_MESSAGE" value="q" />
   </component>
 </project>
